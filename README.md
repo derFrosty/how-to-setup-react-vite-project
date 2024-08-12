@@ -6,6 +6,8 @@ This guide was written with Vite 5.3 in mind. In case it no longer is up to date
 
 I mostly use `yarn` as my package manager. I will try to have my commands in both `npm` and `yarn` form. If you are using a different package manager please make the correct adjustments.
 
+If you want to checkout my completed setup [checkout](https://github.com/derFrosty/react-vite-project-template) this repo.
+
 ## 1. Create a React + Vite project
 
 Start by running the following command in directory where you want your project folder to be.
